@@ -73,37 +73,37 @@ const Home: React.FC = () => {
             <GraphBar
               value={100}
               time={100}
-              description="Lorem ipsum dolor sitamet,consecte turadipiscing elit."
+              description="Lorem ipsum dolor sitamet"
               size={80}
             />
             <GraphBar
               value={100}
               time={100}
-              description="Lorem ipsum dolor sitamet,consecte turadipiscing elit."
+              description="Lorem ipsum dolor sitamet"
               size={120}
             />
             <GraphBar
               value={100}
               time={100}
-              description="Lorem ipsum dolor sitamet,consecte turadipiscing elit."
+              description="Lorem ipsum dolor sitamet"
               size={160}
             />
             <GraphBar
               value={100}
               time={100}
-              description="Lorem ipsum dolor sitamet,consecte turadipiscing elit."
+              description="Lorem ipsum dolor sitamet"
               size={200}
             />
             <GraphBar
               value={100}
               time={100}
-              description="Lorem ipsum dolor sitamet,consecte turadipiscing elit."
+              description="Lorem ipsum dolor sitamet"
               size={240}
             />
             <GraphBar
               value={100}
               time={100}
-              description="Lorem ipsum dolor sitamet,consecte turadipiscing elit."
+              description="Lorem ipsum dolor sitamet"
               size={280}
             />
           </div>

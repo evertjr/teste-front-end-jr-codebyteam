@@ -38,6 +38,10 @@ export const Header = styled.div`
     font-weight: 600;
     text-align: center;
     margin-top: 48px;
+
+    @media (max-width: 766px) {
+      font-size: 32px;
+    }
   }
 
   button {
@@ -86,6 +90,10 @@ export const Plans = styled.section`
     display: flex;
     flex-direction: column;
     margin: 0 auto;
+
+    @media (max-width: 766px) {
+      max-width: 350px;
+    }
   }
 
   .graphs {

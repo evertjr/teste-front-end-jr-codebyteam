@@ -65,12 +65,20 @@ export const Container = styled.button<CategoryCardProps>`
       color: #fff;
       font-size: 40px;
       font-weight: 600;
+
+      @media (max-width: 766px) {
+        font-size: 20px;
+      }
     }
 
     span {
       color: #fff;
       font-size: 16px;
       font-weight: 600;
+
+      @media (max-width: 766px) {
+        font-size: 12px;
+      }
     }
   }
 
